@@ -1,5 +1,3 @@
-This says 97% html because of the gfiles Lmao
-
 Only deploy this with CodeSandbox.
 
 # What is cosmic?
